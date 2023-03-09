@@ -1,6 +1,6 @@
  <body>
         <video autoplay muted loop id="bk" style="z-index: -10">
-            <source src="/Covid-19-Updates-Kim/videos/frag.mp4" type="video/mp4">
+            <source src="https://github.com/Kimberly-Marcelin-Nathan/Covid-19-Updates-Kim/blob/main/videos/frag.mp4" type="video/mp4">
           </video>
  
 
