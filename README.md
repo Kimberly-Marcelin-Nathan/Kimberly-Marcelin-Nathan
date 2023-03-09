@@ -1,4 +1,4 @@
-<div style="align:center">
+<div align="center">
 <h1><b>Hey There 👋</b></h1>
 
 <h5>This is Kim, a self-driven and hardworking individual with a great passion for Technology, Digital Marketing and Software Development🤩 <br>
