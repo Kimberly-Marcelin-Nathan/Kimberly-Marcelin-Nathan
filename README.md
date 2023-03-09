@@ -1,4 +1,4 @@
- <body>
+<div>
         <video autoplay muted loop id="bk" style="z-index: -10">
             <source src="https://github.com/Kimberly-Marcelin-Nathan/Covid-19-Updates-Kim/blob/main/videos/frag.mp4" type="video/mp4">
           </video>
@@ -27,4 +27,4 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
   ![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
-</body>
+</div>
