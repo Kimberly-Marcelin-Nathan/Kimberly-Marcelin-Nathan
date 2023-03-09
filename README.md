@@ -1,7 +1,7 @@
-<div style="align:centee">
-<h1 style="align:center"><b>Hey There 👋</b></h1>
+<div style="align:center">
+<h1><b>Hey There 👋</b></h1>
 
-<h5 style="align:center">This is Kim, a self-driven and hardworking individual with a great passion for Technology, Digital Marketing and Software Development🤩 <br>
+<h5>This is Kim, a self-driven and hardworking individual with a great passion for Technology, Digital Marketing and Software Development🤩 <br>
 <br>I Love to Develop and Build Websites using HTML5, CSS3, JavaScript, PHP, SQL & MERN ✨ <br><br>
 I like to work with Object-Oriented Programming Languages with a preference for Java ⭐<br><br>
 Proficient in the presentation using Microsoft PowerPoint and finds visual treat and communication more important 🔥 <br><br>
