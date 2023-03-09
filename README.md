@@ -32,7 +32,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 <a href="mailto:kimmarcnathan02@gmail.com"><img src="https://img.shields.io/badge/-kimmarcnathan02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p></div>
 
-
+<br><br>
 ![Snake animation] (https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
