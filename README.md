@@ -1,4 +1,3 @@
-<svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
  <body>
         <video autoplay muted loop id="bk" style="z-index: -10">
             <source src="/Covid-19-Updates-Kim/videos/frag.mp4" type="video/mp4">
