@@ -5,7 +5,7 @@
  
 
 <div align="center">
-<h1><b>Hey There <img src="https://user-images.githubusercontent.com/82994804/224172582-2a49ae65-43f5-49b2-a839-adcddc0cc000.png" width="50"/></b></h1>
+<h1><b>Hey There <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50"/></b></h1>
 
 <h5>This is Kim, a self-driven and hardworking individual with a great passion for Technology, Digital Marketing and Software Development🤩 <br>
 <br>I Love to Develop and Build Websites using HTML5, CSS3, JavaScript, PHP, SQL & MERN ✨ <br><br>
