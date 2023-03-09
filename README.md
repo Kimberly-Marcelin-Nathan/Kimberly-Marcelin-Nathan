@@ -12,6 +12,6 @@ This is Kim, a self-driven and hardworking individual with a great passion for T
  
 </br>
  
-  ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
