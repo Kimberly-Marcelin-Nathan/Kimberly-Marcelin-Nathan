@@ -1,7 +1,7 @@
 <div text-align:"justify">
-<h1><b>Hey there 👋</b></h1>
+<h1 text-align:"justify"><b>Hey there 👋</b></h1>
 
-<h3>This is Kim, a self-driven and hardworking individual with a great passion for<br>
+<h5 text-align:"justify">This is Kim, a self-driven and hardworking individual with a great passion for<br>
 Technology, Digital Marketing and Software Development🤩 <br>
 <br>I Love to Develop and Build Websites using HTML5, CSS3, JavaScript, PHP, SQL & MERN ✨ <br><br>
 I like to work with Object-Oriented Programming Languages with a preference for Java ⭐<br><br>
@@ -9,7 +9,7 @@ Proficient in the presentation using Microsoft PowerPoint,
 <br><br>and finds visual treat and communication more important 🔥 <br>
 Furthermore, I love to belt out new tunes, sing, play guitar, keyboard, produce music<br><br>
 Fallen in love with France, its culture, and language 💖 <br><br>
-Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h3>
+Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 </div>
 </br>
 
