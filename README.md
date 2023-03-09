@@ -31,8 +31,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 <a href="https://www.linkedin.com/in/kimberlymarcelinnathan"><img src="https://img.shields.io/badge/-Kimberly%20Marcelin%20Nathan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kimmarcnathan02@gmail.com"><img src="https://img.shields.io/badge/-kimmarcnathan02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p></div>
-
-<br><br>
+<br>
 <!--![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)-->
 <div align="center">
          <h1><b><img src="https://user-images.githubusercontent.com/82994804/224172157-cd904616-b0d3-475c-91a3-7fdf09635387.png" width="50"> &nbsp;Hissss</b></h1>
