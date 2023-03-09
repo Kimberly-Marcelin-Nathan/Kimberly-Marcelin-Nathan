@@ -1,15 +1,9 @@
 <svg fill="none" viewBox="0 0 600 300" width="600" height="300" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="http://www.w3.org/1999/xhtml">
-      <style>
-        .container {
-          display: flex;
-          width: 100%;
-          height: 300px;
-          background-color: black;
-          color: white;
-        }
-      </style>
+ <body>
+        <video autoplay muted loop id="bk" style="z-index: -10">
+            <source src="/Covid-19-Updates-Kim/videos/frag.mp4" type="video/mp4">
+          </video>
+ 
 
 <div align="center">
 <h1><b>Hey There 👋</b></h1>
@@ -34,3 +28,4 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
   ![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+</body>
