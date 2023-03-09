@@ -35,7 +35,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 <br><br>
 <!--![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)-->
 <div align="center">
-         <h1><b><img src="https://user-images.githubusercontent.com/82994804/224172157-cd904616-b0d3-475c-91a3-7fdf09635387.png" width="5"> &nbsp;Hissss</b></h1>
+         <h1><b><img src="https://user-images.githubusercontent.com/82994804/224172157-cd904616-b0d3-475c-91a3-7fdf09635387.png" width="50"> &nbsp;Hissss</b></h1>
 <img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg"/></div>
 
 </div>
