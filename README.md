@@ -33,6 +33,6 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 </p></div>
 
 <div align="center">
-  ![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)
+  <video src ="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg">
  </div>
 </div>
