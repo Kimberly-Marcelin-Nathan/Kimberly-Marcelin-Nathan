@@ -26,7 +26,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 </br>
 
 <div align="center">
-         <h1><b>🤝🏻 &nbsp;Connect with Me</b></h1>
+         <h1><b><img src="https://ouch-cdn2.icons8.com/bwMbfJuhA5kCwPKRamVIgOf1R5LhZWa67WQhP8sDZ0Q/rs:fit:256:256/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9wbmcvMTkw/LzlmMDkzZDFiLWNm/ZGUtNDA1Ni04Zjg2/LTllMGUwYjEzNjdh/Mi5wbmc.png" width="70"> &nbsp;Connect with Me</b></h1>
 <p align="center">
 <a href="https://www.linkedin.com/in/kimberlymarcelinnathan"><img src="https://img.shields.io/badge/-Kimberly%20Marcelin%20Nathan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kimmarcnathan02@gmail.com"><img src="https://img.shields.io/badge/-kimmarcnathan02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
