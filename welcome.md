@@ -1,6 +1,6 @@
 <div>
 <div class="video"> 
-        <img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/main/videos/fragkim.gif"/></div>
+        <img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/main/videos/fragkim.gif"/>
  
 
 <div align="center">
@@ -15,3 +15,4 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 </div>
 </br>
   </div>
+</div>
