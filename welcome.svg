@@ -24,6 +24,7 @@
         display: flex;
         align-items: center;
         justify-content: center;
+      background: 
         background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
         animation: border 5s linear infinite;
         background-size: 200% 200%;
@@ -188,6 +189,9 @@
       <div class='container'>
        
         <section class='items'>
+             <video autoplay muted loop id="bk" style="z-index: -10">
+            <source src="https://github.com/Kimberly-Marcelin-Nathan/Covid-19-Updates-Kim/blob/main/videos/frag.mp4" type="video/mp4">
+          </video>
                   <ul>
             <li><a href="mailto:kimmarcnathan02@gmail.com" role="button"><span class='hi'>👋</span></a></li>
           </ul>
