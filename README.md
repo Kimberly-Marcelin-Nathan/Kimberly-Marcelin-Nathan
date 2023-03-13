@@ -52,4 +52,9 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
   <img src="https://profile-counter.glitch.me/Kimberly-Marcelin-Nathan/count.svg?theme=dracula" width="250" />
 </div>
 
+<details align="center">
+<summary align="center"> &nbsp <h1><img src="https://img.icons8.com/external-flaticons-flat-flat-icons/1x/external-quotes-customer-feedback-flaticons-flat-flat-icons.png" width="70"> &nbsp;Random Dev Quote</h1></summary>
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
+</details>
 
