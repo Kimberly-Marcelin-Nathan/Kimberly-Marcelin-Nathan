@@ -26,8 +26,9 @@
         display: flex;
         align-items: center;
         justify-content: center;
+      background:url("https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/main/frag.mp4")no-repeat;
 
-        background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
+      //  background-image: radial-gradient(var(--color-main), var(--color-primary), var(--color-secondary));
         animation: border 5s linear infinite;
         background-size: 200% 200%;
         background-position: 0 0;
@@ -36,7 +37,9 @@
       }
 
       .container {
-        background: var(--color-background);
+       // background: var(--color-background);
+      background:url("/Kimberly-Marcelin-Nathan/edit/main/frag.mp4");
+       background-size: cover;
         height: calc(100% - 10px);
         width: calc(100% - 10px);
         display: flex;
