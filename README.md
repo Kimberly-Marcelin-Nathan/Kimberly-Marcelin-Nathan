@@ -42,7 +42,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
  <div align="center"><hr>
   
 <a href="https://openspotify.com/user/31aihd6srkv2azro4o3ihbuoaadu">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aihd6srkv2azro4o3ihbuoaadu&count=5&unique=true" alt="Spotify recently played"  width="500"/>
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aihd6srkv2azro4o3ihbuoaadu" alt="Spotify recently played"  width="500"/>
   </a>
   <br>
 
