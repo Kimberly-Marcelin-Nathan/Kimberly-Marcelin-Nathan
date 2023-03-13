@@ -1,6 +1,5 @@
 <div>
-<div class="video"> 
-        <img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/main/videos/fragkim.gif"/></div>
+
  
 
 <div align="center">
