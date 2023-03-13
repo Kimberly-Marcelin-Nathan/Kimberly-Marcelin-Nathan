@@ -40,6 +40,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 <details>
 <summary align="center"> &nbsp <h1><img src="https://ouch-cdn2.icons8.com/dh7WTkIa_4G6To95fg4OEhT1vQ-p4aejKR9H8gMUKjM/rs:fit:256:133/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjI0/LzFmZGFmMDJiLWIy/YTUtNDVmOC05OGU0/LWYzNjQ1MWIzNjQ2/MS5zdmc.png" width="70"> &nbsp;Chill Out Here!</h1></summary>
  <div align="center"><hr>
+
   
 <a href="https://openspotify.com/user/31aihd6srkv2azro4o3ihbuoaadu">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aihd6srkv2azro4o3ihbuoaadu" alt="Spotify recently played"  width="500"/>
