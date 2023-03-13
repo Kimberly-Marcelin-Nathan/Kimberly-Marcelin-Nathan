@@ -1,7 +1,4 @@
 <div>
-
- 
-
 <div align="center">
 <h1><b>Hey There <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50"/></b></h1>
 
@@ -15,7 +12,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 </br>
 
  <div align="center">
-        <h1><b><img src="https://ouch-cdn2.icons8.com/jkTEVZRCBswUm6H4IwB0aEZtA6M_ua41P8sCWtib8Ec/rs:fit:256:203/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjMy/LzIyN2M2ZjgyLTQy/NjgtNGYwNS1iNDUz/LTc4ZjkzZTIyOTc5/MS5zdmc.png" width="75"> &nbsp;GitHub Analytics</b></h1>
+        <h1><b><img src="https://ouch-cdn2.icons8.com/jkTEVZRCBswUm6H4IwB0aEZtA6M_ua41P8sCWtib8Ec/rs:fit:256:203/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjMy/LzIyN2M2ZjgyLTQy/NjgtNGYwNS1iNDUz/LTc4ZjkzZTIyOTc5/MS5zdmc.png" width="75"> &nbsp;GitHub Analytics<b></h1>
   <a href="https://github.com/Kimberly-Marcelin-Nathan">
    <img align="center" height="170" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api/top-langs/?username=Kimberly-Marcelin-Nathan&layout=compact&langs_count=16&theme=dracula"/>&nbsp &nbsp &nbsp
   <img align="center" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api?username=Kimberly-Marcelin-Nathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/><br></br>
@@ -31,10 +28,21 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
 <a href="https://www.linkedin.com/in/kimberlymarcelinnathan"><img src="https://img.shields.io/badge/-Kimberly%20Marcelin%20Nathan-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:kimmarcnathan02@gmail.com"><img src="https://img.shields.io/badge/-kimmarcnathan02@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p></div>
-<br>
+<br><hr>
 <!--![Snake animation](https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg)-->
 <div align="center">
-         <h1><b><img src="https://em-content.zobj.net/thumbs/160/apple/81/snake_1f40d.png" width="70"> &nbsp;Hissss</b></h1>
-<img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg"/></div>
+<h1><b><img src="https://em-content.zobj.net/thumbs/160/apple/81/snake_1f40d.png" width="70"> &nbsp;Hissss</b></h1>
+<img src="https://github.com/Kimberly-Marcelin-Nathan/Kimberly-Marcelin-Nathan/blob/output/github-contribution-grid-snake.svg" /></div>
 
 </div>
+
+
+<details>
+<summary align="center"> &nbsp <h1><img src="https://ouch-cdn2.icons8.com/dh7WTkIa_4G6To95fg4OEhT1vQ-p4aejKR9H8gMUKjM/rs:fit:256:133/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjI0/LzFmZGFmMDJiLWIy/YTUtNDVmOC05OGU0/LWYzNjQ1MWIzNjQ2/MS5zdmc.png" width="70"> &nbsp;Chill Out!</h1></summary>
+ <div align="center"><hr>
+<a href="https://openspotify.com/user/31aihd6srkv2azro4o3ihbuoaadu">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31aihd6srkv2azro4o3ihbuoaadu&count=5&unique=true" alt="Spotify recently played"  width="500"/>
+  </a>
+</div></details>
+
+
