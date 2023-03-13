@@ -19,7 +19,7 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
   <a href="https://github.com/Kimberly-Marcelin-Nathan">
    <img align="center" height="170" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api/top-langs/?username=Kimberly-Marcelin-Nathan&layout=compact&langs_count=16&theme=dracula"/>
   <img align="center" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api?username=Kimberly-Marcelin-Nathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/><br>
-  <img align="center" style="width:778px;margin-top=5px" src="https://github-readme-streak-stats.herokuapp.com/?user=kimberly-marcelin-nathan&theme=dracula">
+  <img align="center" style="width:779px; margin-top:5px;" src="https://github-readme-streak-stats.herokuapp.com/?user=kimberly-marcelin-nathan&theme=dracula">
    </div>
  
 </br>
