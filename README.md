@@ -18,7 +18,8 @@ Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
         <h1><b><img src="https://ouch-cdn2.icons8.com/jkTEVZRCBswUm6H4IwB0aEZtA6M_ua41P8sCWtib8Ec/rs:fit:256:203/czM6Ly9pY29uczgu/b3VjaC1wcm9kLmFz/c2V0cy9zdmcvMjMy/LzIyN2M2ZjgyLTQy/NjgtNGYwNS1iNDUz/LTc4ZjkzZTIyOTc5/MS5zdmc.png" width="75"> &nbsp;GitHub Analytics</b></h1>
   <a href="https://github.com/Kimberly-Marcelin-Nathan">
    <img align="center" height="170" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api/top-langs/?username=Kimberly-Marcelin-Nathan&layout=compact&langs_count=16&theme=dracula"/>
-  <img align="center" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api?username=Kimberly-Marcelin-Nathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/>
+  <img align="center" src="https://github-readme-stats-kimberly-marcelin-nathan.vercel.app/api?username=Kimberly-Marcelin-Nathan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues"/><br>
+  <img align="center" style="width:778px;margin-top=5px" src="https://github-readme-streak-stats.herokuapp.com/?user=kimberly-marcelin-nathan&theme=dracula">
    </div>
  
 </br>
