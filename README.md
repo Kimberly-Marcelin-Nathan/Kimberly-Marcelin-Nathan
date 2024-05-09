@@ -2,12 +2,16 @@
 <div align="center">
 <h1><b>Hey There <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50"/></b></h1>
 
-<h5>This is Kim, a self-driven and hardworking individual with a great passion for Technology, Digital Marketing and Software Development🤩 <br>
-<br>I Love to Develop and Build Websites using HTML5, CSS3, JavaScript, PHP, SQL & MERN ✨ <br><br>
-I like to work with Object-Oriented Programming Languages with a preference for Java ⭐<br><br>
-Proficient in the presentation using Microsoft PowerPoint and finds visual treat and communication more important 🔥 <br><br>
-Furthermore, I love to belt out new tunes, sing, play guitar, keyboard, produce music🎶🎶and yes I love France, its culture, and language 💖<br><br>
-Surtout Paris car c'est la Ville de l'amour et la Ville lumière! 💓</h5>
+<h5> This is Kim, a final-year MSc student in Decision and Computing Sciences, where I immerse myself in the limitless possibilities of the digital world<br>
+My passion lies in web development and the intricate craft of shaping user experiences through the art of UI/UX design 🌐💻<br>
+Proficient in a multitude of technologies including HTML5, CSS3, JavaScript, PHP, SQL, and MERN stack<br>
+I am adept at crafting dynamic and engaging websites that resonate with users on a profound level 🚀🎨<br>
+My commitment to excellence drives me to continuously refine my skills and stay abreast of emerging trends<br>
+in the ever-evolving digital landscape 🔍📈<br>
+Beyond the digital realm, my true passion lies in the soul-stirring world of music 🎵<br>
+And as music aficionado I wield the power of vocals, keyboard, piano, and guitar to compose a symphony that echoes my deepest creativity 💖<br>
+
+Ciao for now 💓!</h5>
 </div>
 </br>
 
