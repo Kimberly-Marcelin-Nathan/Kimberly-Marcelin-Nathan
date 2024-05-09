@@ -2,12 +2,8 @@
 <div align="center">
 <h1><b>Hey There <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50"/></b></h1>
 
-<h5> This is Kim, currently pursuing final-year of MSc DCS,<br>
-where the digital world becomes my canvas.<br><br>
-Passionately delving into web development and shaping user experiences<br>
-through the art of UI/UX design 🌐💻<br><br>
-I craft dynamic websites that resonate with users on a profound level<br>
-using HTML5, CSS3, JavaScript, PHP, SQL, and MERN stack 🚀🎨<br><br>
+<h5> This is Kim, currently pursuing final-year of MSc DCS where the digital world becomes my canvas 🚀🎨<br><br>
+Passionately delving into web development & shaping user experiences through the art of UI/UX design 🌐💻<br><br>
 Beyond the digital realm, my true passion lies in the soul-stirring world of music 🎵<br>
 And as music aficionado I wield the power of vocals, keyboard, piano, and guitar<br>
 to compose a symphony that echoes my deepest creativity 💖<br><br>
