@@ -2,11 +2,7 @@
 <div align="center">
 <h1><b>Hey There <img src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png" width="50"/></b></h1>
 
-<h5> This is Kim, currently pursuing final-year of MSc DCS where the digital world becomes my canvas 🚀🎨<br><br>
-Passionately delving into web development & shaping user experiences through the art of UI/UX design 🌐💻<br><br>
-Beyond the digital realm, my true passion lies in the soul-stirring world of music 🎵<br>
-And as music aficionado I wield the power of vocals, keyboard, piano, and guitar<br>
-to compose a symphony that echoes my deepest creativity 💖<br><br>
+<h5> UI/UX Designer specializing in simplifying complex systems into clear, intuitive experiences. I work end-to-end from research and strategy to wireframes, prototypes and polished interfaces. I’ve led design for an AI-powered campaign management platform and built complete e-commerce ecosystems including mobile apps, vendor dashboards and scanner apps that deliver real product impact. Outside work, I’m also a Music Artist! <br><br>
 
 Ciao for now 💓!</h5>
 </div>
